@@ -1,13 +1,17 @@
-<img alt="Night Coding" src="Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Usman Zubair</h2>
+<div>
+    <img alt="Night Coding" src="Hand%20Wave.gif" width="40" align="left">
+    <h2> Hey there! I'm Usman Zubair</h2>
+</div>
 
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
+
+
 
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;Exploring new technologies and developing software solutions to our worlds tech problems.\
 🎓 &nbsp;Currently studying Software Engineering at COMSATS University.\
 🌱 &nbsp;Learning more about Web Development, App Development, and Artificial Intelligence.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
+💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.
 <!--📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions! -->
 
 <img alt="Night Coding" src="Night-Coding.gif" align="right"/>
@@ -48,6 +52,6 @@
 <p align="center">
 <!--<a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>-->
 <a href="https://linkedin.com/in/usman-zubair"><img src="https://img.shields.io/badge/-Usman%20Zubair-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:usmanzubair623@gmail.com"><img src="https://img.shields.io/badge/-usmanzubair@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:usmanzubair623@gmail.com"><img src="https://img.shields.io/badge/-usmanzubair623@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.twitter.com/usmanzubair_"><img src="https://img.shields.io/badge/-Usman%20Zubair-000000?style=flat&logo=X&logoColor=white"/></a>
 </p>
