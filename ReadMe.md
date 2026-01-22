@@ -52,6 +52,6 @@
 <p align="center">
 <!--<a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>-->
 <a href="https://linkedin.com/in/usman-zubair"><img src="https://img.shields.io/badge/-Usman%20Zubair-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:usmanzubair623@gmail.com"><img src="https://img.shields.io/badge/-usmanzubair623@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:mail.usmanzubair@gmail.com"><img src="https://img.shields.io/badge/-mail.usmanzubair@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.twitter.com/usmanzubair_"><img src="https://img.shields.io/badge/-Usman%20Zubair-000000?style=flat&logo=X&logoColor=white"/></a>
 </p>
